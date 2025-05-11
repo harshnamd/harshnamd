@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me :<br>     I enjoy building efficient, scalable, and user-friendly applications <br>across web.<br><br>💻 Technical Skills:<br><br>Languages: JavaScript, Python, Java, HTML, CSS<br>Focus Areas:<br>Frontend development with HTML, CSS, and JavaScript<br>Scripting and automation with Python<br>Core Java for object-oriented programming and backend logic<br><br>🚀 Currently Working On :<br>Strengthening my frontend development skills<br>Exploring backend concepts using Python and Java<br>Building personal projects to enhance problem-solving and full-stack development skills<br>
+👋 About Me :<br>     I enjoy building efficient, scalable, and user-friendly applications <br>across web.<br><br>💻 Technical Skills:<br><br> 🌐Languages:<br><br>  JavaScript, Python, Java, HTML, CSS<br><br>Focus Areas:<br><br>Frontend development with HTML, CSS, and JavaScript<br>Scripting and automation with Python<br>Core Java for object-oriented programming and backend logic<br><br>🚀 Currently Working On :<br>Strengthening my frontend development skills<br>Exploring backend concepts using Python and Java<br>Building personal projects to enhance problem-solving and full-stack development skills<br>
 
 
 # 📊 GitHub Stats:
